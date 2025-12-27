@@ -1,6 +1,6 @@
 
-# 📊 S&P 500 Recovery Pattern Analysis
-### Comparing the 1998 LTCM Crisis with the 2025 Market Drop
+# 📊 S&P 500 Recovery Pattern Analysis: 1998-99 vs 2025-26
+### Comparing the 1998 Crisis with the 2025 Market Drop
 
 ![Repository Banner](assets/images/repo_banner.png)
 
