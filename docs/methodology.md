@@ -27,12 +27,6 @@
 - Drawdown: Peak-to-trough percentage decline
 - Returns: Both daily and cumulative
 
-### 5. Visualization Standards
-- Color coding: Blue (1998), Orange (2025)
-- Date alignment: Common calendar reference
-- Dual axes: Separate scales where appropriate
-- Annotations: Crisis points, milestones, projections
-
 ## Limitations
 
 1. **Historical Pattern Assumption**
@@ -49,10 +43,3 @@
    - Focuses only on S&P 500 index
    - Does not account for individual stock variance
    - Excludes international markets
-
-## Further Reading
-
-- [Original 1998 LTCM Crisis Analysis]
-- [Market Recovery Pattern Research]
-- [Statistical Finance Methods]
-```*
