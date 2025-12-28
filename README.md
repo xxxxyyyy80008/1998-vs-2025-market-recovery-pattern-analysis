@@ -1,7 +1,5 @@
 
-# 📊 S&P 500 Recovery Pattern Analysis: 1998-99 vs 2025-26
-
-### Comparing the 1998 Crisis with the 2025 Market Drop
+# S&P 500 Recovery Pattern Analysis: 1998-99 vs 2025-26
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -10,12 +8,11 @@
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
 
-# S&P 500 Recovery Pattern Analysis: 1998-99 vs 2025-26
 
-## 📊 OVERVIEW
+##  OVERVIEW
 
 ### Objective
-Comprehensive comparison of market recovery patterns between the **1998 LTCM Crisis** and **2025 Market Drop**, analyzing whether historical patterns can predict future recovery trajectories through detailed technical and statistical analysis.
+Comprehensive comparison of market recovery patterns between the **1998 Crisis** and **2025 Market Drop**, analyzing whether historical patterns can predict future recovery trajectories through detailed technical and statistical analysis.
 
 ### Comparison Periods
 - **Historical Benchmark**: 1998-1999 Crisis Recovery (24 months)
@@ -29,7 +26,7 @@ Comprehensive comparison of market recovery patterns between the **1998 LTCM Cri
 
 ---
 
-## 📈 ANALYTICAL FRAMEWORK
+##  ANALYTICAL FRAMEWORK
 
 ### Data Processing Methodology
 
@@ -53,7 +50,7 @@ When 2025 data is incomplete:
 
 ---
 
-## 🎨 VISUALIZATION SUITE (11 Components)
+##  VISUALIZATION SUITE (11 Components)
 
 ### **Core Price Comparisons**
 
@@ -62,6 +59,7 @@ When 2025 data is incomplete:
 - Separate timelines for each crisis period
 - Crisis point markers clearly indicated
 - Projected period shading (if applicable)
+[![x](../images/visualization_1_price_comparison.png)]()
 
 **Key Elements**:
 - Date format: YYYY-MM with 3-month intervals
