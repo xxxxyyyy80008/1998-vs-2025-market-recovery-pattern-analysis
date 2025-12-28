@@ -14,15 +14,3 @@ ipykernel>=6.20.0
 
 # Date/Time Handling
 python-dateutil>=2.8.0
-
-# Optional: Advanced Visualizations
-# plotly>=5.13.0
-# dash>=2.8.0
-
-# Optional: Statistical Analysis
-# scipy>=1.10.0
-# statsmodels>=0.13.0
-
-# Optional: Report Generation
-# fpdf>=1.7.2
-# reportlab>=3.6.0
