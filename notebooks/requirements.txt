@@ -1,13 +1,16 @@
-# Core dependencies
+# Core Data Science Libraries
 pandas>=1.5.0
 numpy>=1.23.0
 matplotlib>=3.6.0
-yfinance>=0.2.0
-jupyter>=1.0.0
-
-# Optional but recommended
 seaborn>=0.12.0
-scipy>=1.9.0
 
-# For reproducibility
+# Financial Data
+yfinance>=0.2.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.20.0
+
+# Date/Time Handling
 python-dateutil>=2.8.0
